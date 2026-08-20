@@ -180,5 +180,27 @@
       <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1393313_202607281805362486542_mini.webp</g:image_link>
       <g:brand>KIA MOTORS</g:brand>
     </item>
+    <item>
+      <g:id>1399433</g:id>
+      <g:title>MERCEDES-BENZ Sprinter VAN 313 2008/2009</g:title>
+      <g:description>M. BENZ SPRINTER UTI FURGÃO 313 2.2 DIESEL | 2008/2009 REPASSE | 465.131 KM Detalhes do veículo: - Direção Hidráulica - ?Porta Lateral - VALOR DE REPASSE - NÃO TEM GARANTIA Pronta para trabalhar!</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>74900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1399433</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1399433_202608201336410347270_mini.webp</g:image_link>
+      <g:brand>MERCEDES-BENZ</g:brand>
+    </item>
+    <item>
+      <g:id>1399437</g:id>
+      <g:title>MERCEDES-BENZ MB 608 1980/1980</g:title>
+      <g:description>M. BENZ 608 D BAÚ | 1980/1980 Todo Revisado Caminhão no Baú - Direção Mecânica - Pneus bons com câmara - Mecânica excelente - Super Freio Pronto para trabalhar!</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>79900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1399437</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1399437_202608201347404567959_mini.webp</g:image_link>
+      <g:brand>MERCEDES-BENZ</g:brand>
+    </item>
   </channel>
 </rss>
