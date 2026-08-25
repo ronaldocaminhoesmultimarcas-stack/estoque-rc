@@ -213,5 +213,27 @@
       <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1399976_202608212110311098104_mini.webp</g:image_link>
       <g:brand>VOLKSWAGEN</g:brand>
     </item>
+    <item>
+      <g:id>1400616</g:id>
+      <g:title>VW - Volkswagen Fusca 1300 1979/1980</g:title>
+      <g:description>FUSCA 1300 | 1979/1980</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>24900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1400616</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1400616_202608251501232292519_mini.webp</g:image_link>
+      <g:brand>VW</g:brand>
+    </item>
+    <item>
+      <g:id>1400619</g:id>
+      <g:title>VW - Volkswagen Fusca 1300 1984/1984</g:title>
+      <g:description>FUSCA 1300 | 1984/1984</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>24900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1400619</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1400619_202608251504556314180_mini.webp</g:image_link>
+      <g:brand>VW</g:brand>
+    </item>
   </channel>
 </rss>
