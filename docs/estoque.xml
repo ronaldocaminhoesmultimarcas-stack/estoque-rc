@@ -164,7 +164,7 @@
       <g:description>I KIA SORENTO 7 LUGARES | 2010/2011 COMPLETO</g:description>
       <g:availability>in stock</g:availability>
       <g:condition>used</g:condition>
-      <g:price>49900.00 BRL</g:price>
+      <g:price>44900.00 BRL</g:price>
       <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1393313</g:link>
       <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1393313_202607281805362486542_mini.webp</g:image_link>
       <g:brand>KIA MOTORS</g:brand>
@@ -234,6 +234,17 @@
       <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1400619</g:link>
       <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1400619_202608251504556314180_mini.webp</g:image_link>
       <g:brand>VW</g:brand>
+    </item>
+    <item>
+      <g:id>1400703</g:id>
+      <g:title>GM - Chevrolet Onix 1.0 Joy 2019/2020</g:title>
+      <g:description>ONIX JOY | 2019/2020 - Completo - Apenas 66 mil km - Manual e chave reserva</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>51900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1400703</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1400703_202608251816298557587_mini.webp</g:image_link>
+      <g:brand>GM</g:brand>
     </item>
   </channel>
 </rss>
