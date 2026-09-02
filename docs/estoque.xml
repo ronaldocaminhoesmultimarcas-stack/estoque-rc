@@ -232,8 +232,19 @@
       <g:condition>used</g:condition>
       <g:price>169900.00 BRL</g:price>
       <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1402779</g:link>
-      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1402779_202609021923353637274_mini.webp</g:image_link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1402779_202609021923599539941_mini.webp</g:image_link>
       <g:brand>FORD</g:brand>
+    </item>
+    <item>
+      <g:id>1402805</g:id>
+      <g:title>HONDA Civic Sedan 1.8 LXS 2008/2008</g:title>
+      <g:description>HONDA CIVIC LXS FLEX | 2008/2008 Mecânica boa | 215.223 KM Rodado Detalhes do veículo: - Completo Documentação toda em dia! Entre em contato com nossa equipe de vendas e venha conferir de perto!</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>40900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1402805</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1402805_202609022008409996071_mini.webp</g:image_link>
+      <g:brand>HONDA</g:brand>
     </item>
   </channel>
 </rss>
