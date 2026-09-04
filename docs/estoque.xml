@@ -224,5 +224,16 @@
       <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1402805_202609022008409996071_mini.webp</g:image_link>
       <g:brand>HONDA</g:brand>
     </item>
+    <item>
+      <g:id>1403430</g:id>
+      <g:title>MERCEDES-BENZ MB 608 1979/1979</g:title>
+      <g:description>M. BENZ 608 D BAÚ | 1979/1979 Todo Revisado Caminhão no Baú - Direção Mecânica, porém muito leve! - Pneus bons - Mecânica excelente - Freio a ar - Rádio com câmera de ré Pronto para trabalhar!</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>82900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1403430</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1403430_202609041502128610747_mini.webp</g:image_link>
+      <g:brand>MERCEDES-BENZ</g:brand>
+    </item>
   </channel>
 </rss>
