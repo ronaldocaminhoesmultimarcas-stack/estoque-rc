@@ -213,5 +213,16 @@
       <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1406790_202609181245198809049_mini.webp</g:image_link>
       <g:brand>MERCEDES-BENZ</g:brand>
     </item>
+    <item>
+      <g:id>1408232</g:id>
+      <g:title>SUZUKI Gran Vitara 2.0 Premiun 2013/2014</g:title>
+      <g:description>SUZUKI GRAND VITARA 2WD 5P | 2013/2014 Revisado | 106.973 KM Rodado Detalhes do veículo: - COMPLETO - 4X2 - AUTOMÁTICO Mecânica toda revisada e documentação toda em dia! Pronto para rodar!!</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>used</g:condition>
+      <g:price>57900.00 BRL</g:price>
+      <g:link>https://www.rccaminhoesmultimarcas.com.br/19/DetalhesVeiculo.aspx?veiculo=1408232</g:link>
+      <g:image_link>https://d36qmzp7jiean8.cloudfront.net/cliente_008535/veiculos/1408232_202609231859004955882_mini.webp</g:image_link>
+      <g:brand>SUZUKI</g:brand>
+    </item>
   </channel>
 </rss>
